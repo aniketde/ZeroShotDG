@@ -1,0 +1,10 @@
+car
+dog
+ship
+cat
+truck
+horse
+bird
+deer
+airplane
+frog
