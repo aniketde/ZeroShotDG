@@ -14,4 +14,10 @@ We evaluate the proposed methods on CIFAR-10, CIFAR-100, F-MNIST and PACS datase
 
 This repository provides with a PyTorch implementation of our algorithms as described in the paper [Zero Shot Domain Generalization](https://arxiv.org/abs/2008.07443)
 
-Code: Coming Soon.
+Citation: 
+@article{maniyar2020zero,
+  title={Zero Shot Domain Generalization},
+  author={Maniyar, Udit and Deshmukh, Aniket Anand and Dogan, Urun and Balasubramanian, Vineeth N and others},
+  booktitle={British Machine Vision Conference},
+  year={2020}
+}
